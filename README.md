@@ -1,2 +1,2 @@
 # shreejiscale
-this is a local shop[ website
+this is a local shop website
